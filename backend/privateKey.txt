@@ -1,2 +1,0 @@
-
-const privateKey = '995abae2-aba3-441a-9203-73e4c8e6a49d'
